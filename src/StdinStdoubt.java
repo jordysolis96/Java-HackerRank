@@ -11,8 +11,8 @@ public class StdinStdoubt {
         System.out.println("enter your third number");
         int c = scan.nextInt();
         System.out.println("Here are your numbers:");
-        System.out.println("no.1: " + a);
-        System.out.println("no.2: " + b);
-        System.out.println("no.3: " + c);
+        System.out.println("No.1: " + a);
+        System.out.println("No.2: " + b);
+        System.out.println("No.3: " + c);
     }
 }
