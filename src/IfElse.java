@@ -18,7 +18,7 @@ public class IfElse {
             System.out.println("Weird");
         }else if(N % 2 == 0 && 2 <= N && N < 5){
             System.out.println("Not Weird");
-        }else if(N % 2 == 0 && 6 <= N && N < 20){
+        }else if(N % 2 == 0 && 6 <= N && N <= 20){
             System.out.println("Weird");
         }else if(N % 2 == 0 && N > 20){
             System.out.println("Not Weird");
