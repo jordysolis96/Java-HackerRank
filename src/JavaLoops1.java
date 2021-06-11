@@ -15,7 +15,7 @@ public class JavaLoops1 {
         int N = scan.nextInt();
         int i = 1;
         for(i = 1; i <= 10; i++){
-            System.out.println(N + " * " + i + " = " + N * i);
+            System.out.println(N + " x " + i + " = " + N * i);
         }
     }
 }
